@@ -1,0 +1,33 @@
+body {
+    font-family: Montserrat, sans-serif;
+    max-width: 45rem;
+    margin: 0 auto 5rem;
+  }
+  h1 {
+    text-align: center;
+    margin-bottom: 0;
+  }
+  h1 + h2 {
+    font-weight: normal;
+    text-align: center;
+    font-size: 0.875rem;
+    letter-spacing: 0.4rem;
+    text-transform: uppercase;
+    margin-top: 0.5;
+  }
+  p{
+    text-align : center;
+    font-style: italic;
+    font-family: fantasy;
+    font-size:1.5rem;
+    color: white;
+    background-color: black;
+  }
+  h3{
+    text-align : right;
+    color : red;
+    text-shadow: 2px 4px 10px red;
+  }
+  script{
+    box-shadow: 2px 4px 10px 4px black;
+  }
